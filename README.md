@@ -4,9 +4,9 @@
 
 Supongamos que tenemos una lista de objetos Producto con los siguientes atributos: nombre, precio, categoría y stock. Queremos realizar las siguientes operaciones utilizando la Stream API:
 
-•	Obtener una lista de todos los productos con stock mayor a 0 y con un precio menor a 50.
-•	Obtener la lista de nombres de todos los productos de la categoría "Alimentos".
-•	Obtener el precio total de todos los productos.
+* Obtener una lista de todos los productos con stock mayor a 0 y con un precio menor a 50.
+* Obtener la lista de nombres de todos los productos de la categoría "Alimentos".
+* Obtener el precio total de todos los productos.
 
 Productos a añadir:
 * productos.add(new Producto("Arroz", 30.5, "Alimentos", 50));
